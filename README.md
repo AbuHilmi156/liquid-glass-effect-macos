@@ -1,9 +1,18 @@
-# macOS Liquid Glass Effect
+# WWDC 2025 Liquid Glass Effect
 
-A beautiful recreation of the macOS liquid glass effect using pure CSS and SVG filters. This demo showcases a button with a stunning glass morphism effect that includes:
+A beautiful recreation of the macOS liquid glass effect using pure CSS and SVG filters. This demo showcases a button with a stunning glass morphism effect.
 
-- Dynamic liquid distortion
-- Realistic light reflections
-- Smooth hover animations
+## About the Liquid Effect
 
-![Demo Video](demo.mp4)
+This glass effect was shown at Apple's [WWDC 2025](https://www.youtube.com/watch?v=Qz8u00pX738) as the "Liquid Effect". It adds smooth, flowing motion to interfaces using liquid-like distortions and light effects.
+
+The effect combines animations and visual effects to create responsive interfaces. This demo shows how to create it using CSS and SVG filters, making it easy for web developers to use.
+
+Key features that make this effect special:
+- Organic, fluid motion that responds to user interaction
+- Realistic light refraction and reflection
+- Seamless integration using CSS and SVG filters
+
+https://github.com/user-attachments/assets/7d6d47bb-21be-4244-87ae-85845c890ddd
+
+
