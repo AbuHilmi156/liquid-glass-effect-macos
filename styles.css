@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: blue;
+  background: url("https://static.vecteezy.com/system/resources/previews/056/652/082/non_2x/hand-drawn-white-flower-seamless-pattern-floral-repeating-wallpaper-for-textile-design-fabric-print-wrapping-paper-cute-daisy-flowers-on-blue-background-repeated-ditsy-texture-vector.jpg")
+    center center;
+  background-size: 1000px;
+  font-family: sans-serif;
+
+  animation: moveBackground 20s linear infinite;
+}
+
+.wrapper {
+  position: fixed;
+  padding: 50px;
+}
+
+.shine {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+
+  border-radius: 999px;
+  overflow: hidden;
+
+  box-shadow: inset 2px 2px 1px 0 rgba(255, 255, 255, 0.5),
+    inset -1px -1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+
+.radius {
+  border-radius: 999px;
+}
+
+.button {
+  position: relative;
+  display: flex;
+  font-weight: 600;
+  overflow: hidden;
+
+  padding: 1.5rem 2.5rem;
+  color: black;
+  cursor: pointer;
+
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.2), 0 0 20px rgba(0, 0, 0, 0.1);
+
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 2.2);
+}
+
+.button:hover {
+  padding: 2.5rem 3.5rem;
+}
+
+.button svg {
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 2.2);
+}
+
+.button:hover svg {
+  transform: scale(0.95);
+}
+
+.tint-button {
+  z-index: 1;
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.25);
+}
+
+.text-button {
+  z-index: 3;
+  font-size: 2rem;
+  color: black;
+}
+
+.glass-button {
+  position: absolute;
+  z-index: 0;
+  inset: 0;
+
+  backdrop-filter: blur(3px);
+  filter: url(#glass-distortion);
+  overflow: hidden;
+  isolation: isolate;
+}
+
+@keyframes moveBackground {
+  from {
+    background-position: 0% 0%;
+  }
+  to {
+    background-position: 0% -200%;
+  }
+}
+
+/*
+GREEN BACKGROUND
+https://media.istockphoto.com/id/1430511443/vector/christmas-mistletoe-foliage-and-berries-vector-seamless-pattern.jpg?s=612x612&w=0&k=20&c=oqxlH7ytgd5yjBQroACirJ1gH7Au1tq8gmsdeGd-Crk=
+
+ORANGE BACKGROUND
+https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/beautiful-orange-and-pastel-flowers-seamless-pattern-julien.jpg
+
+MARGARITAS BACKGROUND
+https://static.vecteezy.com/system/resources/previews/056/652/082/non_2x/hand-drawn-white-flower-seamless-pattern-floral-repeating-wallpaper-for-textile-design-fabric-print-wrapping-paper-cute-daisy-flowers-on-blue-background-repeated-ditsy-texture-vector.jpg
+
+SPRING FLOWERS BACKGROUND
+https://img.freepik.com/free-vector/flat-floral-spring-pattern-design_23-2150117078.jpg
+
+VECTOR WINDS BACKGROUND
+https://i.ibb.co/MDbLn4N4/vectors.png
+*/
