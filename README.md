@@ -1,5 +1,8 @@
 # WWDC 2025 Liquid Glass Effect
 
+> [!NOTE]
+> Demo here: https://codesandbox.io/p/sandbox/nn5q2y
+
 A beautiful recreation of the macOS liquid glass effect using pure CSS and SVG filters. This demo showcases a button with a stunning glass morphism effect.
 
 ## About the Liquid Effect
