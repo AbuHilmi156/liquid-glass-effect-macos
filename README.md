@@ -7,7 +7,7 @@ A beautiful recreation of the macOS liquid glass effect using pure CSS and SVG f
 
 ## About the Liquid Effect
 
-This glass effect was shown at Apple's [WWDC 2025](https://www.youtube.com/watch?v=Qz8u00pX738) as the "Liquid Effect". It adds smooth, flowing motion to interfaces using liquid-like distortions and light effects.
+This glass effect was shown at Apple's [WWDC 2025](https://www.youtube.com/watch?v=Qz8u00pX738) as the "[Liquid Effect](https://developer.apple.com/videos/play/wwdc2025/219)". It adds smooth, flowing motion to interfaces using liquid-like distortions and light effects.
 
 The effect combines animations and visual effects to create responsive interfaces. This demo shows how to create it using CSS and SVG filters, making it easy for web developers to use.
 
