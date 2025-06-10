@@ -16,6 +16,4 @@ Key features that make this effect special:
 - Realistic light refraction and reflection
 - Seamless integration using CSS and SVG filters
 
-https://github.com/user-attachments/assets/7d6d47bb-21be-4244-87ae-85845c890ddd
-
-
+https://github.com/user-attachments/assets/c7a0d234-9eea-4f81-a978-7c749fb3118b
